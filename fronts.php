@@ -23,12 +23,13 @@
   </head>
    <body>
    	<h1>THE LOUNGE</h1>
-   	<form>
+   <!--	<form>
    		<button class="button button1"><a href="login.php">Login</a>
-   		<!--<input type="button" value="Login">-->
+   		<input type="button" value="Login">
    	    </button>
    	    <button class="button button2"><a href="signup.php">
-   		<!--<input type="button" value="Sign Up">--> Signup</a>
+   		<input type="button" value="Sign Up"> Signup</a>
    	    </button>
+    </form>-->
    </body>
    </html>
